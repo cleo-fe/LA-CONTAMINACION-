@@ -46,8 +46,32 @@ Es la adición dañina a la atmósfera de gases tóxicos, CO, u otros que afecta
 - Controlar los derramamientos accidentales de petróleo
 - Controlar los relaves mineros
 
+##LA CONTAMINACION EN EL PERU:
+
+En el Perú, sufrimos de una contaminación ambiental crónica y sumamente peligrosa especialmente en las ciudades con una alta actividad minera, pesquera y en las ciudades con gran congestión vehicular e industrial.
+
+Entre las ciudades mineras, la Oroya ha sido tristemente calificada como una de las más contaminadas del mundo. Así mismo en el Callao, nuestro principal puerto, la Dirección del Medio Ambiente ha encontrado que el 64% de los escolares poseen altos niveles de plomo en la sangre, encima de los límites permisibles. Todo por carecer hasta la fecha de un sistema de transporte de minerales más seguro (mangas selladas).
+
+Es importante recordar que estos metales pesados (plomo, mercurio, arsénico, etc.) en altos niveles en la sangre de nuestros niños, provocan daños neurológicos irreversibles, que impedirán el desarrollo adecuado de sus habilidades intelectuales.
+
+![](http://cde.peru.com/ovejanegra/uploads/2012/05/IMG_2874.jpg)
+
+###LA CONTAMINACION EN AREQUIPA:
+
+La contaminación Ambiental por años viene siendo un factor determinante en la salud pública de los pobladores Arequipeños; a consecuencia de los gases contaminantes, residuos sólidos y aguas servidas, se ha incrementado enormemente debido a una falta de atención por parte de las autoridades y concientización por parte de los pobladores. Arequipa es la segunda ciudad en el Perú donde circulan más vehículos después de Lima, y lo que contamina el motor de un auto, que se abastece con diésel o con gasolina de bajo octanaje, es diez veces peor que la contaminación que ocasiona la industria o la basura que se arroja al río; lo que más contamina es el transporte público, son las combis, los buses y los taxis Tico.
+
+Hay mucho que hacer para remediar este grave problema que no solo nos perjudica a nosotros si no a las futuras generaciones, las cuales no serán responsables de las irresponsabilidades que comentamos en la actualidad.
+
+En la actualidad, encontramos que la explotación de los recursos naturales a modernizando sus técnicas, que conlleva una mayor cantidad de desechos que el medio ambiente no puede procesar, con la misma velocidad con la que se producen, ni que el hombre puede tolerar, ocasionando la contaminación del aire, agua, suelo y perturbando el bienestar del ser humano y los demás seres vivos que habitan en los ecosistemas. Esto lleva consigo la destrucción de muchos ecosistemas y por tanto una pérdida importante de la biodiversidad. También se ve amenazado el futuro de las poblaciones debido a las consecuencias que produce la contaminación.
+
+![](http://static.panoramio.com/photos/original/61834799.jpg)
+
+  **La contaminacion del agua en Arequipa:** La contaminación del agua en la ciudad de Arequipa es uno de los problemas más críticos de la región, así tenemos que en la actualidad las aguas del río chili se encuentran altamente contaminadas por la emisión de desechos domésticos e industriales en sus aguas. Entre los principales causantes de esta contaminación tenemos:
+
+  El uso de plaguicidas en la agricultura: La agricultura actual se encuentra basada en el empleo masivo de abonos artificiales y de pesticidas, cuyo uso se ha multiplicado. Aunque inicialmente permite un importante aumento de productividad, a la larga entraña graves riesgos ecológicos, ya que da origen a la acumulación de sustancias tóxicas en el medio ambiente como resultado de la aplicación masiva de pesticidas, y estos tóxicos acaban por introducir en las cadenas tróficas y en los alimentos, con lo que además de provocar una drástica reducción de la abundancia de vida animal comprometen la salud humana.
+
 
 ## BIBLIOGRAFIA:
-- [http://contaminacion-ambiente.blogspot.pe/](http://contaminacion-ambiente.blogspot.pe/)
+- `http://contaminacion-ambiente.blogspot.pe/`
 - [http://www.xataka.com/makers/como-y-por-que-se-esta-usando-github-mas-alla-del-software](http://www.xataka.com/makers/como-y-por-que-se-esta-usando-github-mas-alla-del-software)
 - [http://es.slideshare.net/tecnoanime/que-es-la-contaminacion-ambiental](http://es.slideshare.net/tecnoanime/que-es-la-contaminacion-ambiental)
