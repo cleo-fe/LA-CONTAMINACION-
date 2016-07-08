@@ -4,12 +4,12 @@
 
 ##DEFINICION:
 
-Se denomina contaminación ambiental a la precensia en el ambiente de cualquier agente (físico, químico o biológico) o bien de una combinación de varios agentes en lugares, formas y concentraciones tales que sean o puedan ser nocivos para la salud, la seguridad o para el bienestar de la población, o bien, que puedan ser perjudiciales para la vida vegetal o animal, o impidan el uso normal de las propiedades y lugares de recreación y goce de los mismos. La contaminación ambiental es también la incorporación a los cuerpos receptores de sustancias sólidas, liquidas o gaseosas, o mezclas de ellas, siempre que alteren desfavorablemente las condiciones naturales del mismo, o que puedan afectar la salud, la higiene o el bienestar del público.
+Se denomina contaminación ambiental a la precensia en el ambiente de cualquier agente (*físico, químico o biológico*) o bien de una combinación de varios agentes en lugares, formas y concentraciones tales que sean o puedan ser nocivos para la salud, la seguridad o para el bienestar de la población, o bien, que puedan ser perjudiciales para la vida vegetal o animal, o impidan el uso normal de las propiedades y lugares de recreación y goce de los mismos. La contaminación ambiental es también la incorporación a los cuerpos receptores de sustancias sólidas, liquidas o gaseosas, o mezclas de ellas, siempre que alteren desfavorablemente las condiciones naturales del mismo, o que puedan afectar la salud, la higiene o el bienestar del público.
 
 La contaminación es uno de los problemas ambientales más importantes que afectan a nuestro mundo y surge cuando se produce un desequilibrio, como resultado de la adición de cualquier sustancia al medio ambiente, en cantidad tal, que cause efectos adversos en el hombre, en los animales, vegetales o materiales expuestos a dosis que sobrepasen los niveles aceptables en la naturaleza.
-La contaminación puede surgir a partir de ciertas manifestaciones de la naturaleza (fuentes naturales) o bien debido a los diferentes procesos productivos del hombre (fuentes antropogénicas) que conforman las actividades de la vida diaria.
+La contaminación puede surgir a partir de ciertas manifestaciones de la naturaleza (*fuentes naturales*) o bien debido a los diferentes procesos productivos del hombre (*fuentes antropogénicas*) que conforman las actividades de la vida diaria.
 
-Las fuentes que generan contaminación de origen antropogénico más importantes son: industriales (frigoríficos, mataderos y curtiembres, actividad minera y petrolera), comerciales (envolturas y empaques), agrícolas (agroquímicos), domiciliarias (envases, pañales, restos de jardinería) y fuentes móviles (gases de combustión de vehículos). Como fuente de emisión se entiende el origen físico o geográfico donde se produce una liberación contaminante al ambiente, ya sea al aire, al agua o al suelo. Tradicionalmente el medio ambiente se ha dividido, para su estudio y su interpretación, en esos tres componentes que son: aire, agua y suelo; sin embargo, esta división es meramente teórica, ya que la mayoría de los contaminantes interactúan con más de uno de los elementos del ambiente.
+Las fuentes que generan contaminación de origen antropogénico más importantes son: industriales (*frigoríficos, mataderos y curtiembres, actividad minera y petrolera*), comerciales (*envolturas y empaques*), agrícolas (*agroquímicos*), domiciliarias (*envases, pañales, restos de jardinería*) y fuentes móviles (*gases de combustión de vehículos*). Como fuente de emisión se entiende el origen físico o geográfico donde se produce una liberación contaminante al ambiente, ya sea al aire, al agua o al suelo. Tradicionalmente el medio ambiente se ha dividido, para su estudio y su interpretación, en esos tres componentes que son: aire, agua y suelo; sin embargo, esta división es meramente teórica, ya que la mayoría de los contaminantes interactúan con más de uno de los elementos del ambiente.
 
 ##TIPOS DE CONTAMINACION AMBIENTAL:
 
@@ -48,11 +48,11 @@ Es la adición dañina a la atmósfera de gases tóxicos, CO, u otros que afecta
 
 ##LA CONTAMINACION EN EL PERU:
 
-En el Perú, sufrimos de una contaminación ambiental crónica y sumamente peligrosa especialmente en las ciudades con una alta actividad minera, pesquera y en las ciudades con gran congestión vehicular e industrial.
+**En el Perú, sufrimos de una contaminación ambiental crónica y sumamente peligrosa especialmente en las ciudades con una alta actividad minera, pesquera y en las ciudades con gran congestión vehicular e industrial**.
 
-Entre las ciudades mineras, la Oroya ha sido tristemente calificada como una de las más contaminadas del mundo. Así mismo en el Callao, nuestro principal puerto, la Dirección del Medio Ambiente ha encontrado que el 64% de los escolares poseen altos niveles de plomo en la sangre, encima de los límites permisibles. Todo por carecer hasta la fecha de un sistema de transporte de minerales más seguro (mangas selladas).
+Entre las ciudades mineras, la Oroya ha sido tristemente calificada como una de las más contaminadas del mundo. Así mismo en el Callao, nuestro principal puerto, la Dirección del Medio Ambiente ha encontrado que el 64% de los escolares poseen altos niveles de plomo en la sangre, encima de los límites permisibles. Todo por carecer hasta la fecha de un sistema de transporte de minerales más seguro (*mangas selladas*).
 
-Es importante recordar que estos metales pesados (plomo, mercurio, arsénico, etc.) en altos niveles en la sangre de nuestros niños, provocan daños neurológicos irreversibles, que impedirán el desarrollo adecuado de sus habilidades intelectuales.
+Es importante recordar que estos metales pesados (*plomo, mercurio, arsénico, etc.*) en altos niveles en la sangre de nuestros niños, provocan daños neurológicos irreversibles, que impedirán el desarrollo adecuado de sus habilidades intelectuales.
 
 ![](http://cde.peru.com/ovejanegra/uploads/2012/05/IMG_2874.jpg)
 
@@ -68,7 +68,7 @@ En la actualidad, encontramos que la explotación de los recursos naturales a mo
 
   **La contaminacion del agua en Arequipa:** La contaminación del agua en la ciudad de Arequipa es uno de los problemas más críticos de la región, así tenemos que en la actualidad las aguas del río chili se encuentran altamente contaminadas por la emisión de desechos domésticos e industriales en sus aguas. Entre los principales causantes de esta contaminación tenemos:
 
-  El uso de plaguicidas en la agricultura: La agricultura actual se encuentra basada en el empleo masivo de abonos artificiales y de pesticidas, cuyo uso se ha multiplicado. Aunque inicialmente permite un importante aumento de productividad, a la larga entraña graves riesgos ecológicos, ya que da origen a la acumulación de sustancias tóxicas en el medio ambiente como resultado de la aplicación masiva de pesticidas, y estos tóxicos acaban por introducir en las cadenas tróficas y en los alimentos, con lo que además de provocar una drástica reducción de la abundancia de vida animal comprometen la salud humana.
+  **El uso de plaguicidas en la agricultura**: La agricultura actual se encuentra basada en el empleo masivo de abonos artificiales y de pesticidas, cuyo uso se ha multiplicado. Aunque inicialmente permite un importante aumento de productividad, a la larga entraña graves riesgos ecológicos, ya que da origen a la acumulación de sustancias tóxicas en el medio ambiente como resultado de la aplicación masiva de pesticidas, y estos tóxicos acaban por introducir en las cadenas tróficas y en los alimentos, con lo que además de provocar una drástica reducción de la abundancia de vida animal comprometen la salud humana.
 
 
 ## BIBLIOGRAFIA:
