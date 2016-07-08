@@ -86,7 +86,7 @@ En la actualidad, encontramos que la explotación de los recursos naturales a mo
   **El uso de plaguicidas en la agricultura**: La agricultura actual se encuentra basada en el empleo masivo de abonos artificiales y de pesticidas, cuyo uso se ha multiplicado. Aunque inicialmente permite un importante aumento de productividad, a la larga entraña graves riesgos ecológicos, ya que da origen a la acumulación de sustancias tóxicas en el medio ambiente como resultado de la aplicación masiva de pesticidas, y estos tóxicos acaban por introducir en las cadenas tróficas y en los alimentos, con lo que además de provocar una drástica reducción de la abundancia de vida animal comprometen la salud humana.
 
 
-## BIBLIOGRAFIA:
+## BIBLIOGRAFIA :
 - [http://contaminacion-ambiente.blogspot.pe/](http://contaminacion-ambiente.blogspot.pe/)
 - [http://www.xataka.com/makers/como-y-por-que-se-esta-usando-github-mas-alla-del-software](http://www.xataka.com/makers/como-y-por-que-se-esta-usando-github-mas-alla-del-software)
 - [http://es.slideshare.net/tecnoanime/que-es-la-contaminacion-ambiental](http://es.slideshare.net/tecnoanime/que-es-la-contaminacion-ambiental)
