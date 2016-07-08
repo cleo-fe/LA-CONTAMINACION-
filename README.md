@@ -9,6 +9,11 @@ Se denomina contaminación ambiental a la precensia en el ambiente de cualquier 
 La contaminación es uno de los problemas ambientales más importantes que afectan a nuestro mundo y surge cuando se produce un desequilibrio, como resultado de la adición de cualquier sustancia al medio ambiente, en cantidad tal, que cause efectos adversos en el hombre, en los animales, vegetales o materiales expuestos a dosis que sobrepasen los niveles aceptables en la naturaleza.
 La contaminación puede surgir a partir de ciertas manifestaciones de la naturaleza (fuentes naturales) o bien debido a los diferentes procesos productivos del hombre (fuentes antropogénicas) que conforman las actividades de la vida diaria.
 
+```
+DATO CURIOSO:
+             Según la Organización Mundial de la Salud, cada año mueren más de 900 miL ciudadanos de la "India" sólo por efecto de la contaminación ambiental. Por lo cual seria el primer pais mas contaminado del mundo.
+```
+
 Las fuentes que generan contaminación de origen antropogénico más importantes son: industriales (frigoríficos, mataderos y curtiembres, actividad minera y petrolera), comerciales (envolturas y empaques), agrícolas (agroquímicos), domiciliarias (envases, pañales, restos de jardinería) y fuentes móviles (gases de combustión de vehículos). Como fuente de emisión se entiende el origen físico o geográfico donde se produce una liberación contaminante al ambiente, ya sea al aire, al agua o al suelo. Tradicionalmente el medio ambiente se ha dividido, para su estudio y su interpretación, en esos tres componentes que son: aire, agua y suelo; sin embargo, esta división es meramente teórica, ya que la mayoría de los contaminantes interactúan con más de uno de los elementos del ambiente.
 
 ##TIPOS DE CONTAMINACION AMBIENTAL:
@@ -54,7 +59,7 @@ Entre las ciudades mineras, la Oroya ha sido tristemente calificada como una de 
 
 Es importante recordar que estos metales pesados (plomo, mercurio, arsénico, etc.) en altos niveles en la sangre de nuestros niños, provocan daños neurológicos irreversibles, que impedirán el desarrollo adecuado de sus habilidades intelectuales.
 
-![](http://cde.peru.com/ovejanegra/uploads/2012/05/IMG_2874.jpg)
+[Algunas playas peruanas](http://cde.peru.com/ovejanegra/uploads/2012/05/IMG_2874.jpg)
 
 ###LA CONTAMINACION EN AREQUIPA:
 
