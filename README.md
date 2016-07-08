@@ -10,9 +10,19 @@ La contaminación es uno de los problemas ambientales más importantes que afect
 La contaminación puede surgir a partir de ciertas manifestaciones de la naturaleza (*fuentes naturales*) o bien debido a los diferentes procesos productivos del hombre (*fuentes antropogénicas*) que conforman las actividades de la vida diaria.
 
 >**DATO CURIOSO:**
->Según la Organización Mundial de la Salud, cada año mueren más de 900 mil pobladores de la India sólo por efecto de la contaminación ambiental
+>Según la Organización Mundial de la Salud, cada año mueren más de 900 mil pobladores de la India sólo por efecto de la contaminación ambiental. Por lo cual vendria a ser el pais mas contaminado del mundo. 
 
-Las fuentes que generan contaminación de origen antropogénico más importantes son: industriales (*frigoríficos, mataderos y curtiembres, actividad minera y petrolera*), comerciales (*envolturas y empaques*), agrícolas (*agroquímicos*), domiciliarias (*envases, pañales, restos de jardinería*) y fuentes móviles (*gases de combustión de vehículos*). Como fuente de emisión se entiende el origen físico o geográfico donde se produce una liberación contaminante al ambiente, ya sea al aire, al agua o al suelo. Tradicionalmente el medio ambiente se ha dividido, para su estudio y su interpretación, en esos tres componentes que son: aire, agua y suelo; sin embargo, esta división es meramente teórica, ya que la mayoría de los contaminantes interactúan con más de uno de los elementos del ambiente.
+*Las fuentes que generan contaminación de origen antropogénico más importantes son:* industriales (*frigoríficos, mataderos y curtiembres, actividad minera y petrolera*), comerciales (*envolturas y empaques*), agrícolas (*agroquímicos*), domiciliarias (*envases, pañales, restos de jardinería*) y fuentes móviles (*gases de combustión de vehículos*). Como fuente de emisión se entiende el origen físico o geográfico donde se produce una liberación contaminante al ambiente, ya sea al aire, al agua o al suelo. Tradicionalmente el medio ambiente se ha dividido, para su estudio y su interpretación, en esos tres componentes que son: aire, agua y suelo; sin embargo, esta división es meramente teórica, ya que la mayoría de los contaminantes interactúan con más de uno de los elementos del ambiente.
+
+```
+    TOP 5 DE LO LUGARES MENOS CONTAMINADOS DE TODO EL MUNDO:
+    
+      1.- Vancouver, Canadá
+      2.- Copenhague, en Dinamarca
+      3.- Las Palmas, Gran Canaria, España
+      4.- Salvador de Bahía, Brasil
+      5.- Boston, Estados Unidos
+```
 
 ##TIPOS DE CONTAMINACION AMBIENTAL:
 
@@ -69,7 +79,7 @@ En la actualidad, encontramos que la explotación de los recursos naturales a mo
 
 ![](http://static.panoramio.com/photos/original/61834799.jpg)
 
-  **La contaminacion del agua en Arequipa:** La contaminación del agua en la ciudad de Arequipa es uno de los problemas más críticos de la región, así tenemos que en la actualidad las aguas del río chili se encuentran altamente contaminadas por la emisión de desechos domésticos e industriales en sus aguas. Entre los principales causantes de esta contaminación tenemos:
+  **La contaminacion del agua en Arequipa:** La contaminación del agua en la ciudad de Arequipa es uno de los problemas más críticos de la región, así tenemos que en la actualidad `las aguas del río chili se encuentran altamente contaminadas` por la emisión de desechos domésticos e industriales en sus aguas. Entre los principales causantes de esta contaminación tenemos:
 
   **El uso de plaguicidas en la agricultura**: La agricultura actual se encuentra basada en el empleo masivo de abonos artificiales y de pesticidas, cuyo uso se ha multiplicado. Aunque inicialmente permite un importante aumento de productividad, a la larga entraña graves riesgos ecológicos, ya que da origen a la acumulación de sustancias tóxicas en el medio ambiente como resultado de la aplicación masiva de pesticidas, y estos tóxicos acaban por introducir en las cadenas tróficas y en los alimentos, con lo que además de provocar una drástica reducción de la abundancia de vida animal comprometen la salud humana.
 
@@ -78,3 +88,4 @@ En la actualidad, encontramos que la explotación de los recursos naturales a mo
 - [http://contaminacion-ambiente.blogspot.pe/](http://contaminacion-ambiente.blogspot.pe/)
 - [http://www.xataka.com/makers/como-y-por-que-se-esta-usando-github-mas-alla-del-software](http://www.xataka.com/makers/como-y-por-que-se-esta-usando-github-mas-alla-del-software)
 - [http://es.slideshare.net/tecnoanime/que-es-la-contaminacion-ambiental](http://es.slideshare.net/tecnoanime/que-es-la-contaminacion-ambiental)
+- [http://www.sostenibilidad.com/top-ciudades-menos-contaminadas#7](http://www.sostenibilidad.com/top-ciudades-menos-contaminadas#7)
