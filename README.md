@@ -72,6 +72,6 @@ En la actualidad, encontramos que la explotación de los recursos naturales a mo
 
 
 ## BIBLIOGRAFIA:
-- `http://contaminacion-ambiente.blogspot.pe/`
+- [http://contaminacion-ambiente.blogspot.pe/](http://contaminacion-ambiente.blogspot.pe/)
 - [http://www.xataka.com/makers/como-y-por-que-se-esta-usando-github-mas-alla-del-software](http://www.xataka.com/makers/como-y-por-que-se-esta-usando-github-mas-alla-del-software)
 - [http://es.slideshare.net/tecnoanime/que-es-la-contaminacion-ambiental](http://es.slideshare.net/tecnoanime/que-es-la-contaminacion-ambiental)
