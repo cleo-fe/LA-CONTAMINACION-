@@ -1,6 +1,6 @@
 #LA CONTAMINACION
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnC1Frk7mkB6gKwbRNeHHfuP3Mt8UeHHsNiPf0jLBJKOU3fikOZA)
+![](http://files.seresvivosmovera.webnode.es/200000102-03a2d049bd/contaminacion%201[1].jpg)
 
 ##DEFINICION:
 
@@ -47,6 +47,7 @@ Es la adición dañina a la atmósfera de gases tóxicos, CO, u otros que afecta
 - Quema de basura
 - El monóxido de carbono de los vehículos
 - Desagües de aguas negras o contaminadas al mar o ríos
+![](http://static.latercera.com/20150727/2156257.jpg)
 
 ##PREVENCION DE LA CONTAMINACION AMBIENTAL:
 
@@ -58,6 +59,7 @@ Es la adición dañina a la atmósfera de gases tóxicos, CO, u otros que afecta
 - Crear vías de desagües para las industrias que no lleguen a los mares ni ríos utilizados para el servicio o consumo del hombre ni animales
 - Controlar los derramamientos accidentales de petróleo
 - Controlar los relaves mineros
+![](http://rinconeducativo.org/contenidoextra/radiacio/MUNDO_SUCIO.jpg)
 
 ##LA CONTAMINACION EN EL PERU:
 
