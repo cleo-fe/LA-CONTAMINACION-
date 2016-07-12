@@ -93,7 +93,7 @@ David Crisp, el responsable científico del proyecto OCO-2, está seguro de los 
 
 David Crisp
 Director de la misión "OCO-2"
-![](http://oco.jpl.nasa.gov/images/ocov2/Dave1.jpg)
+![](http://campusdata.uark.edu/resources/images/articles/2016-03-30_02-29-06-PMDavidCrisp.jpg)
  
 ## BIBLIOGRAFIA:
 - [http://contaminacion-ambiente.blogspot.pe/](http://contaminacion-ambiente.blogspot.pe/)
