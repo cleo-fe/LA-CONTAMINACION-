@@ -1,4 +1,4 @@
-LAS CONTAMINACION
+﻿LAS CONTAMINACION
 
 ![](http://files.seresvivosmovera.webnode.es/200000102-03a2d049bd/contaminacion%201[1].jpg)
 
@@ -92,6 +92,7 @@ Mientras, la ciencia continúa haciendo sus indispensables aportes. Y uno de los
 David Crisp, el responsable científico del proyecto OCO-2, está seguro de los satélites harán las mediciones cada vez más precisas “para saber cómo podemos ayudar al planeta en que vivimos”. De ello depende que esta especie asombrosa continúe teniendo un hogar en el que desarrollar su potencial.
 
 CONCLUSION:
+la conclusion es la conclision
 ![](http://campusdata.uark.edu/resources/images/articles/2016-03-30_02-29-06-PMDavidCrisp.jpg)
  
 ## BIBLIOGRAFIA:
