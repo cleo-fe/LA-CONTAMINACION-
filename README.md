@@ -1,4 +1,4 @@
-#LA CONTAMINACION
+LAS CONTAMINACION
 
 ![](http://files.seresvivosmovera.webnode.es/200000102-03a2d049bd/contaminacion%201[1].jpg)
 
@@ -91,8 +91,7 @@ En la conferencia del clima celebrada en París a finales del 2015, 188 países 
 Mientras, la ciencia continúa haciendo sus indispensables aportes. Y uno de los más importantes es el proyecto OCO-2 roa impulsado por la NASA para medir las emisiones de CO2 a través de satélites desde el espacio. Cada año la quema de combustibles fósiles y otras actividades humanas lanza a la atmósfera 36 millones de toneladas de CO2. Sin embargo, con los sistemas de medición en superficie con los que contábamos hasta ahora, resultaba muy difícil conocer el comportamiento de este CO2. Saber, por ejemplo, porqué no todo el C02 emitido permanece en la atmósfera (más de la mitad desaparece), donde están situados estos “sumideros” naturales que absorben el dióxido de carbono, qué partes de la Tierra ayudan a disolver el CO2 y si continuarán haciéndolo en el futuro. Un rompecabezas científico que es imprescindible resolver porque, como la propia web del proyecto asegura: “sólo es posible manejar lo que podemos medir”
 David Crisp, el responsable científico del proyecto OCO-2, está seguro de los satélites harán las mediciones cada vez más precisas “para saber cómo podemos ayudar al planeta en que vivimos”. De ello depende que esta especie asombrosa continúe teniendo un hogar en el que desarrollar su potencial.
 
-CONCLUSIONES:
--Se debe cuidar el medio mabiente para tener un mejor lugar en el que vivir.
+CONCLUSION:
 ![](http://campusdata.uark.edu/resources/images/articles/2016-03-30_02-29-06-PMDavidCrisp.jpg)
  
 ## BIBLIOGRAFIA:
